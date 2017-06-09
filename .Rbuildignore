@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^create\.mart\.R$
+^\.Rdata$
+^\.txt$
+^\.xlsx$
+^convert$
